@@ -169,6 +169,19 @@
           46.58347995762824
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fe1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7855435609817505,
+          46.58942667902369
+        ]
+      }
     }
   ]
 }
