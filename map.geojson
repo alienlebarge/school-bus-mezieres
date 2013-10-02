@@ -273,6 +273,58 @@
           46.59116669978471
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ca1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.775410175323486,
+          46.60506642750676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ca2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782341003417969,
+          46.601469279641144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ca3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785988807678222,
+          46.60023086199543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ca4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.761312484741211,
+          46.59924305619884
+        ]
+      }
     }
   ]
 }
