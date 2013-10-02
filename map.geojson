@@ -143,6 +143,32 @@
           46.59908824918052
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mo2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.735820770263672,
+          46.577506772382094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mo1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.743481159210205,
+          46.58347995762824
+        ]
+      }
     }
   ]
 }
