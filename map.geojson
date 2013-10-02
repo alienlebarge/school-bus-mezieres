@@ -13,6 +13,58 @@
           46.573633068134754
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cu2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.758759021759033,
+          46.56504208188406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Se1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.784089803695679,
+          46.57562250150019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Se2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.781750917434692,
+          46.572720375024694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Me5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7572569847106925,
+          46.582241128850896
+        ]
+      }
     }
   ]
 }
