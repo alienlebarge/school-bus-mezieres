@@ -221,6 +221,58 @@
           46.60115967788351
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Co1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.741507053375244,
+          46.60661430697691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Co2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7423224449157715,
+          46.6020737351167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Co3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.744747161865234,
+          46.59504099449015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Co4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.745439171791076,
+          46.59116669978471
+        ]
+      }
     }
   ]
 }
