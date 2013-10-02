@@ -182,6 +182,45 @@
           46.58942667902369
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ro1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.751549243927002,
+          46.61590065499175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ro2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75983190536499,
+          46.60910556295533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ro3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.754961013793945,
+          46.60115967788351
+        ]
+      }
     }
   ]
 }
