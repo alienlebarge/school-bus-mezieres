@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cu1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753236353397369,
+          46.573633068134754
+        ]
+      }
+    }
+  ]
+}
