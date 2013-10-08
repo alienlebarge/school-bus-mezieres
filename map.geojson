@@ -462,6 +462,156 @@
           46.6252443565327
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.751514375209808,
+          46.61572562942505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.743550896644592,
+          46.58324030546008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.752654314041138,
+          46.57357222240528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.782126426696777,
+          46.572646621375334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.783703565597534,
+          46.5755598142594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.785350441932677,
+          46.58922391873338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769780218601227,
+          46.59287717421985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.767862439155579,
+          46.594051250965066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.771046221256255,
+          46.59404572162085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77557110786438,
+          46.60502220172916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7925333976745605,
+          46.62237804542315
+        ]
+      }
     }
   ]
 }
