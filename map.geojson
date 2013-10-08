@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Cu1"
+        "Name": "Cu1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Cu2"
+        "Name": "Cu2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Se1"
+        "Name": "Se1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Se2"
+        "Name": "Se2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me5"
+        "Name": "Me5",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me6"
+        "Name": "Me6",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me1"
+        "Name": "Me1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me2"
+        "Name": "Me2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me7"
+        "Name": "Me7",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me4"
+        "Name": "Me4",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Me3"
+        "Name": "Me3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Mo2"
+        "Name": "Mo2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +172,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Mo1"
+        "Name": "Mo1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +186,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Fe1"
+        "Name": "Fe1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +200,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ro1"
+        "Name": "Ro1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ro2"
+        "Name": "Ro2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ro3"
+        "Name": "Ro3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +242,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Co1"
+        "Name": "Co1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +256,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Co2"
+        "Name": "Co2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +270,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Co3"
+        "Name": "Co3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +284,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Co4"
+        "Name": "Co4",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ca1"
+        "Name": "Ca1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +312,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ca2"
+        "Name": "Ca2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +326,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ca3"
+        "Name": "Ca3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +340,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ca4"
+        "Name": "Ca4",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +354,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vi1"
+        "Name": "Vi1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +368,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vi2"
+        "Name": "Vi2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +382,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vi3"
+        "Name": "Vi3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +396,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vi4"
+        "Name": "Vi4",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +410,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vi5"
+        "Name": "Vi5",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +424,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vc1"
+        "Name": "Vc1",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +438,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vc2"
+        "Name": "Vc2",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +452,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Vc3"
+        "Name": "Vc3",
+        "marker-symbol": "bus"
       },
       "geometry": {
         "type": "Point",
